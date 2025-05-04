@@ -54,7 +54,10 @@ Provides an interactive Streamlit interface for viewing predictions
 Keeps itself updated with fresh data using an external Python script
 
 ## 🗂️ Project Structure
-.
+
+## 📂 Repository Structure
+```
+
 ├── app.py               # Streamlit web app
 ├── data_updater.py      # Script to add new data
 ├── ml_model.py          # Machine learning logic
@@ -62,7 +65,10 @@ Keeps itself updated with fresh data using an external Python script
 ├── config.py / .env     # DB credentials
 ├── requirements.txt     # Required Python packages
 └── README.md
-📈 Future Improvements
+
+```
+
+## 📈 Future Improvements
 Automatically re-train the model when new data is added
 Allow users to upload CSVs via the web interface
 Deploy the Streamlit app within a local network (e.g., small clinic or lab)
