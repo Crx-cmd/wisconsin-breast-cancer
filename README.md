@@ -53,7 +53,7 @@ Trains a classification model (e.g., Random Forest, SVM)
 Provides an interactive Streamlit interface for viewing predictions
 Keeps itself updated with fresh data using an external Python script
 
-## 🗂️ Project Structure
+# 🗂️ Project Structure
 
 ## 📂 Repository Structure
 ```
